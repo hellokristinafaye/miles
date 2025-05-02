@@ -30,7 +30,7 @@ header {
     background: var(--dark-color);
 }
 .container {
-    width: 80%;
+    width: 90%;
     padding: 100px 220px;
     display: flex;
 }
