@@ -25,3 +25,10 @@
     font-weight: 50;
     padding: 20px;
 }
+
+header {
+    background: var(--dark-color);
+}
+.header-title {
+    color: var(--bright-color);
+}
