@@ -97,3 +97,12 @@ header {
     text-align: right;
     font-weight: bold;
 }
+
+.CTA-container {
+    background: var(--button-color);
+    padding: 50px 100px;
+    margin: 150px 200px;
+    display: flex;
+    border-radius: 20px;
+    color: var(--bright-color);
+}
