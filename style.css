@@ -11,6 +11,8 @@
 }
 .navbar {
     background: var(--dark-color);
+    display: flex;
+    justify-content: space-around;
 }
 .header-logo {
     color: var(--bright-color);
