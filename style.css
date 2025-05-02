@@ -9,6 +9,9 @@
     --mid-color: #E5E7EB;
     --button-color: #3882F6;
 }
+.navbar {
+    background: var(--dark-color);
+}
 .header-logo {
     color: var(--bright-color);
 }
