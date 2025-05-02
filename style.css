@@ -68,10 +68,11 @@ header {
 }
 .info-title {
     text-align: center;
+    margin: 30px;
 }
 .box-container {
     display: flex;
     justify-content: space-between;
     width: 50%;
-    margin: 10px auto;
+    margin: 20px auto;
 }
