@@ -44,6 +44,7 @@ header {
     color: var(--mid-color);
     font-weight: 100;
     font-size: 16px;
+    margin-top: 10px;
 }
 .sign-up {
     background: var(--button-color);
@@ -52,6 +53,7 @@ header {
     border-radius: 10px;
     border: none;
     outline: none;
+    margin-top: 10px;
 }
 .img-placeholder-caption {
     background: grey;
