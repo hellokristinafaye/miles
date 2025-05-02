@@ -53,3 +53,7 @@ header {
     border: none;
     outline: none;
 }
+.img-placeholder-caption {
+    background: grey;
+    padding: 100px 150px;
+}
