@@ -37,3 +37,19 @@ header {
 .header-title {
     color: var(--bright-color);
 }
+.left {
+    flex-basis: 45%;
+}
+.container p {
+    color: var(--mid-color);
+    font-weight: 100;
+    font-size: 16px;
+}
+.sign-up {
+    background: var(--button-color);
+    color: var(--bright-color);
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+}
