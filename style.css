@@ -76,3 +76,11 @@ header {
     width: 50%;
     margin: 20px auto;
 }
+.box-unit {
+    width: 155px;
+}
+.box-caption {
+    text-align: center;
+    font-size: 16px;
+    margin: 5px;
+}
