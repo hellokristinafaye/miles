@@ -110,3 +110,10 @@ header {
 .CTA-container .sign-up {
     border: 3px solid var(--bright-color);
 }
+
+.copyright-text {
+    color: var(--bright-color);
+    background: var(--dark-color);
+    padding: 75px;
+    text-align: center;
+}
