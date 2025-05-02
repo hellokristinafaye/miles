@@ -9,6 +9,10 @@
     --mid-color: #E5E7EB;
     --button-color: #3882F6;
 }
+.header-logo {
+    color: var(--bright-color);
+}
 .nav-link {
     text-decoration: none;
+    color: var(--bright-color);
 }
