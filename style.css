@@ -66,3 +66,6 @@ header {
     border: 3px solid var(--button-color);
     border-radius: 15px;
 }
+.info-title {
+    text-align: center;
+}
